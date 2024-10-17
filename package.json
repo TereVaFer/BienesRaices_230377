@@ -1,0 +1,35 @@
+{
+  "name": "mx.utxj.ti.awos.bienesraices",
+  "version": "1.0.0",
+  "description": "Proyecto de Clase para la Unidad 2, de la Asignatura AWOS utilizando Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TereVaFer/BienesRaices-230377.git"
+  },
+  "keywords": [
+    "MVC",
+    "Express",
+    "Sequelize",
+    "MySQL",
+    "TailwindsCSS",
+    "Nodemon",
+    "NodeJS",
+    "PUG",
+    "NodeMailer",
+    "MilTrap",
+    "JWT"
+  ],
+  "author": "Teresa Vargas Fernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TereVaFer/BienesRaices-230377/issues"
+  },
+  "homepage": "https://github.com/TereVaFer/BienesRaices-230377#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
